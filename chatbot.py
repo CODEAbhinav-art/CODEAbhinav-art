@@ -33,7 +33,7 @@ def get_property_data_text():
     return text
 
 def bot_response(content):
-    client = genai.Client(api_key="AIzaSyBT4spBTSfjH3kwP3D4VdZqKdU2AtJ5ux0")
+    client = genai.Client(Api key vs code me hai)
     response_text = client.models.generate_content(
         model="gemini-2.0-flash", contents=content
     )
