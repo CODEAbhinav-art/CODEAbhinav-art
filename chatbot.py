@@ -1,28 +1,36 @@
 import streamlit as st
-import random
 import time
-# import requests
 from google import genai
+import database
 
-base_prompt="""hello i am designing a chatbot for student accomodation so only give short and to the point responses accordingly,
-               based on these data:Property Name: [Student PG in Vadodara, 1BHK near MSU, Shared Hostel Room, 2BHK Apartment, Studio Apartment],Location: [Vadodara, Vadodara, Mumbai,Ahmedabad,Vadodara],Rent (INR): [6000, 12000, 5000, 18000, 8000],Duration: [1 Month, 3 Months, 6 Months, 12 Months, 3 Months],"Owner Contact": ["ramesh_rentals@gmail.com", "Kishan_houses@gmail.com", "satyam_pgs@gmail.com", "vijay.rentals@example.com", "info@modernliving.in"],
-               meals and other bills not include in the rent,to book an accomodations fill the form present on the main website: http://10.201.113.127:8502
-               ,if you dont have answer say:sorry,I didn't understood the query please contact: renters@gmail.com for further information,also i am adding previous prompts if any (here):"""
+base_faq_responses = {
+    "hello": "Hello there! Welcome to Renters. How can I help you find the perfect place today?",
+    "hi": "Greetings! What rental questions do you have for me?",
+    "hey": "Hey! Looking for rentals? I'm here to assist.",
+    "rentals": "You can browse all our available rental listings on the 'Property Listings' page. Filter by location and rent to find your ideal property.",
+    "properties": "Looking for properties? Visit 'Property Listings' to see what's available.",
+    "book a property": "To book a property, go to the 'Property Listings' page, filter the listings, and you'll find a booking form below the property details.",
+    "booking": "Property bookings can be made on the 'Property Listings' page. See a listing you like? Book it there!",
+    "leave a review": "We value your feedback! You can leave a review on the 'Leave a Review' page.",
+    "reviews": "Want to leave feedback? Use the 'Leave a Review' page.",
+    "contact": "For property-specific inquiries, you'll find the owner's contact information in each listing. For general questions, feel free to ask me!",
+    "help": "I can help you with finding rental listings, booking properties, and leaving reviews. What do you need help with today?",
+}
 
-saved_base_prompt = []
+def get_property_data_text():
+    properties = database.get_properties()
+    prop_names = [p[1] for p in properties]
+    locations = [p[2] for p in properties]
+    rents = [p[3] for p in properties]
+    durations = [p[4] for p in properties]
+    contacts = [p[5] for p in properties]
 
-def response_generator():
-    response = random.choice(
-        [
-            "Hello there! How can I assist you today?",
-            "Hi, human! Is there anything I can help you with?",
-            "Do you need help?",
-        ]
-    )
-    for word in response.split():
-        yield word + " "
-        time.sleep(0.05)
-
+    text = "Property Name: " + str(prop_names) + ", "
+    text += "Location: " + str(locations) + ", "
+    text += "Rent (INR): " + str(rents) + ", "
+    text += "Duration: " + str(durations) + ", "
+    text += '"Owner Contact": ' + str(contacts)
+    return text
 
 def bot_response(content):
     client = genai.Client(api_key="AIzaSyBT4spBTSfjH3kwP3D4VdZqKdU2AtJ5ux0")
@@ -33,69 +41,70 @@ def bot_response(content):
         yield word + " "
         time.sleep(0.05)
 
+def clear_input():
+    st.session_state.user_input = ""
 
-st.title("Simple chat")
+def app():
+    st.title("Rental Assistant Chatbot")
 
-with st.chat_message("AI"):
-    st.write("Hello 👋")
+    if "messages" not in st.session_state:
+        st.session_state.messages = []
 
-if "messages" not in st.session_state:
-    st.session_state.messages = []
+    # Display common FAQs as buttons
+    st.markdown("### Common FAQs")
+    cols = st.columns(3)
+    faq_keys = list(base_faq_responses.keys())
+    for i, key in enumerate(faq_keys):
+        if cols[i % 3].button(key.capitalize()):
+            # Insert FAQ question into input box by setting session state
+            st.session_state.user_input = key
 
+    # Chat input at the top with send button
+    if "user_input" not in st.session_state:
+        st.session_state.user_input = ""
 
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+    input_col, button_col = st.columns([8, 1])
+    with input_col:
+        user_input = st.text_input(
+            "Ask me anything about rentals...",
+            value=st.session_state.user_input,
+            key="user_input",
+            on_change=clear_input,
+        )
+    with button_col:
+        send_clicked = st.button("Send")
 
+    if send_clicked and st.session_state.user_input.strip() != "":
+        prompt = st.session_state.user_input.strip()
 
-if prompt := st.chat_input("What is up?"):
+        with st.chat_message("user"):
+            st.markdown(prompt)
+        st.session_state.messages.append({"role": "user", "content": prompt})
 
-    with st.chat_message("user"):
-        st.markdown(prompt)
+        # Check for FAQ fallback
+        lower_prompt = prompt.lower()
+        faq_answer = None
+        for key in base_faq_responses:
+            if key in lower_prompt:
+                faq_answer = base_faq_responses[key]
+                break
 
-    st.session_state.messages.append({"role": "user", "content": prompt})
+        with st.chat_message("assistant"):
+            if faq_answer:
+                st.markdown(faq_answer)
+                st.session_state.messages.append({"role": "assistant", "content": faq_answer})
+            else:
+                # Generate dynamic base prompt with live property data
+                property_data_text = get_property_data_text()
+                base_prompt = f"Hello, I am a rental assistant chatbot. Based on these data: {property_data_text}. Please answer briefly and to the point. If you don't know the answer, say: Sorry, I didn't understand the query. Please contact renters@gmail.com for further information. Previous conversation: "
+                final_prompt = base_prompt + prompt
+                response = ""
+                for word in bot_response(final_prompt):
+                    response += word
+                    st.markdown(response)
+                st.session_state.messages.append({"role": "assistant", "content": response})
 
-if prompt != None:
-    prompt1= base_prompt +"("+ prompt + ")" + "respond to this question based on previous lines-> QUESTION:"
-    saved_base_prompt.append(prompt1)
-    final_prompt= saved_base_prompt[-1] + prompt
-
-
-with st.chat_message("assistant"):
-    if prompt:
-        response=st.write_stream(bot_response(final_prompt))
-    else:
-        response = st.write_stream(response_generator())
-
-
-st.session_state.messages.append({"role": "assistant", "content":response})
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    # Display chat messages below input
+    for message in st.session_state.messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
