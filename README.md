@@ -1,6 +1,6 @@
 # Hi there, I'm Abhinav! 👋
 
-### 🎓 AI & Data Science Student | ☁️ Aspiring Backend Architect | 🐧 Open Source Contributor
+### 🎓 AI & Data Science Student | ☁️ Aspiring Backend Architect 
 
 
 ---
@@ -16,7 +16,6 @@
 
 ### 🌟 What I'm Working On
 
-* **Open Source:** Actively contributing to **Talawa-API** (Palisadoes Foundation), focusing on hardening Linux installation scripts and optimizing Docker environments.
 * **Java Systems:** Building **SAFAR_NOV-25**, an exploration of backend architectural patterns and object-oriented design in Java.
 * **System Design:** Transitioning from MERN stack development to architecting scalable, stateless microservices.
 
