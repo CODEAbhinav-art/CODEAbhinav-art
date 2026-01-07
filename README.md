@@ -2,7 +2,6 @@
 
 ### 🎓 AI & Data Science Student | ☁️ Aspiring Backend Architect | 🐧 Open Source Contributor
 
-I am a high-achieving engineering undergraduate (9.0 CGPA) bridging the gap between intelligent data systems and scalable backend infrastructure. Currently, I am expanding my horizons into **System Design** and **Cloud Computing**.
 
 ---
 
