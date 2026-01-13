@@ -1,7 +1,6 @@
 # Hi there, I'm Abhinav! 👋
 
-### 🎓 AI & Data Science Student | ☁️ Aspiring Backend Architect 
-
+### 🎓 AI & Data Science Student | ☁️ Aspiring Backend Architect
 
 ---
 
@@ -11,6 +10,18 @@
 * **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 * **Data & ML:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)
 * **DevOps & Tools:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
+---
+
+### 🌍 Open Source Contributions
+
+* ✅ **2 merged pull requests** in production-grade open source repositories
+* 🧩 Contributor to **Hiero Python SDK**
+  * Refactored SDK examples to leverage core abstractions for improved maintainability
+  * Worked under strict **CI/CD**, **DCO**, and **GPG-signed commit** requirements
+  * Collaborated with maintainers through iterative code reviews
+
+> Focus: clean diffs, minimal blast radius, and policy-compliant contributions.
 
 ---
 
@@ -33,9 +44,9 @@
 
 ### 🌱 Learning Goals for 2026
 
-* 🚀 Master **System Design** and **Microservices Architecture**.
-* ⚙️ Deep dive into **Docker & Kubernetes** orchestration.
-* ⚡ Contribute **10+ Merged PRs** to major Open Source projects.
+* 🚀 Master **System Design** and **Microservices Architecture**
+* ⚙️ Deep dive into **Docker & Kubernetes**
+* 🤝 Reach **10+ merged PRs** across well-maintained open source projects
 
 ---
 
