@@ -25,11 +25,6 @@
 
 ---
 
-### 🌟 What I'm Working On
-
-* **Java Systems:** Building **SAFAR_NOV-25**, an exploration of backend architectural patterns and object-oriented design in Java.
-* **System Design:** Transitioning from MERN stack development to architecting scalable, stateless microservices.
-
 ---
 
 ### 📌 Featured Projects
