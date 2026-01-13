@@ -15,7 +15,7 @@
 
 ### 🌍 Open Source Contributions
 
-* ✅ **2 merged pull requests** in production-grade open source repositories
+* ✅ **3 merged pull requests** in production-grade open source repositories
 * 🧩 Contributor to **Hiero Python SDK**
   * Refactored SDK examples to leverage core abstractions for improved maintainability
   * Worked under strict **CI/CD**, **DCO**, and **GPG-signed commit** requirements
