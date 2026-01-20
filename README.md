@@ -30,9 +30,9 @@ I am a Software Engineering student focused on **production-grade backend develo
 
 ### 🚀 Key Projects
 
-#### [GSV Freshers Compass](https://github.com/CODEAbhinav-art/gsv-freshers-compass) | **6,000+ Users**
+#### [GSV Freshers Compass](https://github.com/CODEAbhinav-art/gsv-freshers-compass) | **6,000+ visits**
 *High-performance student resource portal optimized for accessibility.*
-- **Outcome:** Successfully onboarded 1,000+ freshers; achieved 6,000+ organic views.
+- **Outcome:** Successfully onboarded 300+ freshers; achieved 6,000+ organic views.
 - **Tech:** React, TypeScript, Performance Optimization, SEO.
 
 #### [SAFAR_NOV-25](https://github.com/CODEAbhinav-art/SAFAR_NOV-25) | **Java & System Architecture**
