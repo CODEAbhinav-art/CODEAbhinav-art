@@ -15,8 +15,8 @@
 
 ### 🌍 Open Source Contributions
 
-* ✅ **6 merged pull requests** in production-grade open source repositories
-* 🧩 Contributor to **Hiero Python SDK(5 PR Merged), Vercel SWR(1 PR Merged)**
+* ✅ **7 merged pull requests** in production-grade open source repositories
+* 🧩 Contributor to **Hiero Python SDK(5 PR), Vercel SWR(1 PR), Talawa-API(Ex-GSOC org)(1 PR)**
   * Refactored SDK examples to leverage core abstractions for improved maintainability
   * Worked under strict **CI/CD**, **DCO**, and **GPG-signed commit** requirements
   * Collaborated with maintainers through iterative code reviews
