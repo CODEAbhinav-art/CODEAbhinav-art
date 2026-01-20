@@ -1,97 +1,74 @@
 # Abhinav Mishra
+### Systems & Backend Engineer | Open Source Contributor
 
-**AI & Data Science Undergraduate | Backend-Inclined Engineer | Open-Source Contributor**
+I specialize in building **clean, scalable backend architectures** and **production-grade engineering workflows**. Currently pursuing a B.Tech in **AI & Data Science**, I focus on the intersection of distributed systems and data engineering.
 
-I am a B.Tech student specializing in **AI & Data Science** with a strong inclination toward **backend systems, clean abstractions, and production-grade engineering practices**.  
-My interests sit at the intersection of **data, systems, and software architecture**.
-
----
-
-## 🧠 Technical Competencies
-
-**Languages**
-- C++, Java, Python, TypeScript
-
-**Backend & APIs**
-- Node.js, Express.js, MongoDB
-- RESTful API design, schema validation, modular service architecture
-
-**Data & Machine Learning**
-- Pandas, NumPy, scikit-learn  
-- Exploratory Data Analysis, classical ML pipelines
-
-**Engineering Tools**
-- Git (DCO & GPG-signed workflows)
-- Docker, Linux, Postman
-- CI/CD-driven development environments
+[LinkedIn](https://linkedin.com/in/abhinavrmishra) • [Email](mailto:abhinav15102003@gmail.com) • [Portfolio](https://yourportfolio.com)
 
 ---
 
-## 📊 GitHub Overview
-
-<table>
-<tr>
-<td width="50%">
-
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=CODEAbhinav-art&show_icons=true&theme=tokyonight" />
-
-</td>
-<td width="50%">
-
-### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEAbhinav-art&layout=compact&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
-
-> *Note:* Language distribution reflects repository byte composition, not proficiency.
+### 🚀 At a Glance
+- 🛠️ **Current Focus:** Microservices, System Design, and Kubernetes orchestration.
+- 🌍 **Open Source:** Active contributor to production-grade repositories (Vercel, Hiero, Talawa).
+- 🛡️ **Standards:** I advocate for DCO, GPG-signing, and strict CI/CD pipelines.
+- 🎓 **Education:** 2nd Year AI-DS @ Gati Shakti Vishwavidyalaya (A Central University).
 
 ---
 
-## 🌍 Open Source Contributions
+### 🛠️ Technical Ecosystem
 
-- **7 merged pull requests** across established, production-grade repositories
-- Active contributor to:
-  - **Hiero Python SDK** (5 PRs)
-  - **Vercel SWR** (1 PR)
-  - **Talawa-API** (Ex-GSoC organization) (1 PR)
-
-**Nature of Contributions**
-- Refactored SDK examples to align with core abstractions
-- Improved maintainability and reduced conceptual duplication
-- Worked under enforced **CI/CD**, **DCO**, and **GPG-signed commit** policies
-- Iterative collaboration with maintainers via code reviews
-
-> Engineering principle followed: **clean diffs, minimal blast radius, and policy-compliant changes**.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | C++, Java (OOP), Python, TypeScript |
+| **Backend** | Node.js, Express.js, MongoDB, RESTful Architecture |
+| **Data/ML** | PyTorch, YOLOv8, scikit-learn, Pandas, NumPy |
+| **DevOps/Tools** | Docker, Git (GPG/DCO), Linux, Postman, CI/CD |
 
 ---
 
-## 📌 Selected Projects
+### 🌍 Open Source Impact
+*I focus on high-signal contributions to established ecosystems.*
 
-| Project | Overview | Stack |
-|------|--------|------|
-| **[GSV Freshers Compass](https://github.com/CODEAbhinav-art/gsv-freshers-compass)** | Live student-facing portal with **6,000+ organic views**, optimized for performance and accessibility. | TypeScript, React |
-| **[Technocrats ML](https://github.com/CODEAbhinav-art/technocrats-ml)** | End-to-end ML pipeline for Penguin Species Classification achieving **~82% accuracy** through structured EDA and feature analysis. | Python, scikit-learn |
-| **[SAFAR_NOV-25](https://github.com/CODEAbhinav-art/SAFAR_NOV-25)** | Backend-focused project demonstrating object-oriented design and architectural separation of concerns. | Java |
+- **[Vercel SWR](https://github.com/vercel/swr):** Improved maintainability within the React hooks ecosystem.
+- **[Hiero Python SDK](https://github.com/hashgraph/hiero-sdk-python):** Refactored SDK examples to align with core abstractions; 5+ merged PRs.
+- **[Talawa-API](https://github.com/PalisadoesFoundation/talawa-api):** Contributed to modular service architecture for community management.
 
----
-
-## 🎯 2026 Focus Areas
-
-- Backend **System Design fundamentals**
-- Microservices and service-to-service communication
-- Containerization and orchestration (Docker → Kubernetes)
-- Sustained open-source contributions (**50+ merged PRs (in Production Grade Repo's) target**)
+> **Engineering Philosophy:** Minimal blast radius, policy-compliant changes, and rigorous self-review before the first maintainer sees the code.
 
 ---
 
-## 📫 Contact & Profiles
+### 📌 Selected Engineering Projects
 
-- **LinkedIn:** https://linkedin.com/in/abhinavrmishra  
-- **Email:** abhinav15102003@gmail.com
+#### [GSV Freshers Compass](https://github.com/CODEAbhinav-art/gsv-freshers-compass)
+*Student-facing portal providing resources to 1000+ peers.*
+- **Impact:** 6,000+ organic views within the university ecosystem.
+- **Tech:** TypeScript, React, Optimized for Core Web Vitals.
+
+#### [SAFAR_NOV-25](https://github.com/CODEAbhinav-art/SAFAR_NOV-25)
+*Object-Oriented Design in Java.*
+- **Core Concept:** Implementation of architectural separation of concerns (Layered Architecture).
+- **Focus:** Clean abstractions and type-safe data handling.
+
+#### [Technocrats ML](https://github.com/CODEAbhinav-art/technocrats-ml)
+*End-to-end Machine Learning Pipeline.*
+- **Achievement:** 82% accuracy in species classification using structured EDA and feature engineering.
 
 ---
 
-*I value correctness, clarity, and long-term maintainability over quick fixes or superficial complexity.*
+### 📈 GitHub Intelligence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CODEAbhinav-art&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEAbhinav-art&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🎯 2026 Roadmap
+- [ ] Master **System Design** fundamentals (Load balancing, Caching, Sharding).
+- [ ] Transition from **Docker** to **Kubernetes** orchestration.
+- [ ] Target: **50+ Merged PRs** in production-grade open-source repositories.
+
+---
+
+*“Correctness, clarity, and long-term maintainability over superficial complexity.”*
