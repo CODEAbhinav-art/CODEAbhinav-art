@@ -13,6 +13,12 @@
 
 ---
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CODEAbhinav-art&show_icons=true)
+
+## 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CODEAbhinav-art&layout=compact)
+
 ### 🌍 Open Source Contributions
 
 * ✅ **7 merged pull requests** in production-grade open source repositories
