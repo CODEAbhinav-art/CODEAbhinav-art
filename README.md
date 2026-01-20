@@ -83,7 +83,7 @@ My interests sit at the intersection of **data, systems, and software architectu
 - Backend **System Design fundamentals**
 - Microservices and service-to-service communication
 - Containerization and orchestration (Docker → Kubernetes)
-- Sustained open-source contributions (**10+ merged PRs target**)
+- Sustained open-source contributions (**50+ merged PRs (in Production Grade Repo's) target**)
 
 ---
 
