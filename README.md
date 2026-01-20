@@ -1,57 +1,97 @@
-# Hi there, I'm Abhinav! 👋
+# Abhinav Mishra
 
-### 🎓 AI & Data Science Student | ☁️ Aspiring Backend Architect
+**AI & Data Science Undergraduate | Backend-Inclined Engineer | Open-Source Contributor**
 
----
-
-### 🚀 Tech Stack
-
-* **Languages:** ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-* **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-* **Data & ML:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)
-* **DevOps & Tools:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+I am a B.Tech student specializing in **AI & Data Science** with a strong inclination toward **backend systems, clean abstractions, and production-grade engineering practices**.  
+My interests sit at the intersection of **data, systems, and software architecture**.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CODEAbhinav-art&show_icons=true)
+## 🧠 Technical Competencies
 
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CODEAbhinav-art&layout=compact)
+**Languages**
+- C++, Java, Python, TypeScript
 
-### 🌍 Open Source Contributions
+**Backend & APIs**
+- Node.js, Express.js, MongoDB
+- RESTful API design, schema validation, modular service architecture
 
-* ✅ **7 merged pull requests** in production-grade open source repositories
-* 🧩 Contributor to **Hiero Python SDK(5 PR), Vercel SWR(1 PR), Talawa-API(Ex-GSOC org)(1 PR)**
-  * Refactored SDK examples to leverage core abstractions for improved maintainability
-  * Worked under strict **CI/CD**, **DCO**, and **GPG-signed commit** requirements
-  * Collaborated with maintainers through iterative code reviews
+**Data & Machine Learning**
+- Pandas, NumPy, scikit-learn  
+- Exploratory Data Analysis, classical ML pipelines
 
-> Focus: clean diffs, minimal blast radius, and policy-compliant contributions.
-
----
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[GSV Freshers Compass](https://github.com/CODEAbhinav-art/gsv-freshers-compass)** | Live student portal with **6,000+ organic views**. Optimized for performance and accessibility. | TypeScript, React |
-| **[Technocrats ML](https://github.com/CODEAbhinav-art/technocrats-ml)** | ML pipeline for Penguin Species Classification achieving **82% accuracy** via extensive EDA. | Python, Scikit-learn |
-| **[SAFAR_NOV-25](https://github.com/CODEAbhinav-art/SAFAR_NOV-25)** | Backend architecture implementation showcasing distinct architectural patterns. | Java, OOP |
+**Engineering Tools**
+- Git (DCO & GPG-signed workflows)
+- Docker, Linux, Postman
+- CI/CD-driven development environments
 
 ---
 
-### 🌱 Learning Goals for 2026
+## 📊 GitHub Overview
 
-* 🚀 Master **System Design** and **Microservices Architecture**
-* ⚙️ Deep dive into **Docker & Kubernetes**
-* 🤝 Reach **10+ merged PRs** across well-maintained open source projects
+<table>
+<tr>
+<td width="50%">
+
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=CODEAbhinav-art&show_icons=true&theme=tokyonight" />
+
+</td>
+<td width="50%">
+
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEAbhinav-art&layout=compact&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+> *Note:* Language distribution reflects repository byte composition, not proficiency.
 
 ---
 
-### 📫 Let's Connect
+## 🌍 Open Source Contributions
 
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />](https://linkedin.com/in/abhinavrmishra)
-[<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abhinav15102003@gmail.com)
+- **7 merged pull requests** across established, production-grade repositories
+- Active contributor to:
+  - **Hiero Python SDK** (5 PRs)
+  - **Vercel SWR** (1 PR)
+  - **Talawa-API** (Ex-GSoC organization) (1 PR)
+
+**Nature of Contributions**
+- Refactored SDK examples to align with core abstractions
+- Improved maintainability and reduced conceptual duplication
+- Worked under enforced **CI/CD**, **DCO**, and **GPG-signed commit** policies
+- Iterative collaboration with maintainers via code reviews
+
+> Engineering principle followed: **clean diffs, minimal blast radius, and policy-compliant changes**.
+
+---
+
+## 📌 Selected Projects
+
+| Project | Overview | Stack |
+|------|--------|------|
+| **[GSV Freshers Compass](https://github.com/CODEAbhinav-art/gsv-freshers-compass)** | Live student-facing portal with **6,000+ organic views**, optimized for performance and accessibility. | TypeScript, React |
+| **[Technocrats ML](https://github.com/CODEAbhinav-art/technocrats-ml)** | End-to-end ML pipeline for Penguin Species Classification achieving **~82% accuracy** through structured EDA and feature analysis. | Python, scikit-learn |
+| **[SAFAR_NOV-25](https://github.com/CODEAbhinav-art/SAFAR_NOV-25)** | Backend-focused project demonstrating object-oriented design and architectural separation of concerns. | Java |
+
+---
+
+## 🎯 2026 Focus Areas
+
+- Backend **System Design fundamentals**
+- Microservices and service-to-service communication
+- Containerization and orchestration (Docker → Kubernetes)
+- Sustained open-source contributions (**10+ merged PRs target**)
+
+---
+
+## 📫 Contact & Profiles
+
+- **LinkedIn:** https://linkedin.com/in/abhinavrmishra  
+- **Email:** abhinav15102003@gmail.com
+
+---
+
+*I value correctness, clarity, and long-term maintainability over quick fixes or superficial complexity.*
