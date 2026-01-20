@@ -1,12 +1,12 @@
 # Abhinav Mishra
-**AI & Data Science Student @ Gati Shakti Vishwavidyalaya (A Central University)** *Specializing in Backend Systems, Open Source, and Scalable Engineering*
+**AI & Data Science Student ** *Specializing in Backend Systems, Open Source Software Development*
 
 [LinkedIn](https://linkedin.com/in/abhinavrmishra) | [Email](mailto:abhinav15102003@gmail.com) | [GitHub](https://github.com/CODEAbhinav-art)
 
 ---
 
 ### ⚡ Professional Summary
-I am a Software Engineering student focused on **production-grade backend development**. I specialize in creating clean abstractions and contributing to high-stakes open-source ecosystems. I am currently preparing for **GSoC 2026** and am actively seeking **SDE Intern** opportunities.
+I am a Software Engineering student focused on **production-grade backend development**. I specialize in creating clean abstractions and contributing to high-stakes open-source ecosystems.
 
 ---
 
