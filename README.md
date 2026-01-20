@@ -1,74 +1,65 @@
 # Abhinav Mishra
-### Systems & Backend Engineer | Open Source Contributor
+**AI & Data Science Student @ Gati Shakti Vishwavidyalaya (A Central University)** *Specializing in Backend Systems, Open Source, and Scalable Engineering*
 
-I specialize in building **clean, scalable backend architectures** and **production-grade engineering workflows**. Currently pursuing a B.Tech in **AI & Data Science**, I focus on the intersection of distributed systems and data engineering.
-
-[LinkedIn](https://linkedin.com/in/abhinavrmishra) • [Email](mailto:abhinav15102003@gmail.com) • [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://linkedin.com/in/abhinavrmishra) | [Email](mailto:abhinav15102003@gmail.com) | [GitHub](https://github.com/CODEAbhinav-art)
 
 ---
 
-### 🚀 At a Glance
-- 🛠️ **Current Focus:** Microservices, System Design, and Kubernetes orchestration.
-- 🌍 **Open Source:** Active contributor to production-grade repositories (Vercel, Hiero, Talawa).
-- 🛡️ **Standards:** I advocate for DCO, GPG-signing, and strict CI/CD pipelines.
-- 🎓 **Education:** 2nd Year AI-DS @ Gati Shakti Vishwavidyalaya (A Central University).
+### ⚡ Professional Summary
+I am a Software Engineering student focused on **production-grade backend development**. I specialize in creating clean abstractions and contributing to high-stakes open-source ecosystems. I am currently preparing for **GSoC 2026** and am actively seeking **SDE Intern** opportunities.
 
 ---
 
-### 🛠️ Technical Ecosystem
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | C++, Java (OOP), Python, TypeScript |
-| **Backend** | Node.js, Express.js, MongoDB, RESTful Architecture |
-| **Data/ML** | PyTorch, YOLOv8, scikit-learn, Pandas, NumPy |
-| **DevOps/Tools** | Docker, Git (GPG/DCO), Linux, Postman, CI/CD |
+### 🛠️ Technical Toolkit
+- **Languages:** C++, Java (Advanced OOP), Python, TypeScript/JavaScript
+- **Backend:** Node.js, Express.js, REST APIs, Modular Service Architecture
+- **Databases:** MongoDB (Schema Design, Aggregation), SQL Fundamentals
+- **AI/ML:** PyTorch, YOLOv8, scikit-learn, Exploratory Data Analysis
+- **DevOps:** Docker, CI/CD Workflows, GPG-Signing, DCO Compliance
 
 ---
 
-### 🌍 Open Source Impact
-*I focus on high-signal contributions to established ecosystems.*
+### 🏆 Open Source & Impact
+*I contribute to production codebases with a focus on maintainability and Developer Experience (DX).*
 
-- **[Vercel SWR](https://github.com/vercel/swr):** Improved maintainability within the React hooks ecosystem.
-- **[Hiero Python SDK](https://github.com/hashgraph/hiero-sdk-python):** Refactored SDK examples to align with core abstractions; 5+ merged PRs.
-- **[Talawa-API](https://github.com/PalisadoesFoundation/talawa-api):** Contributed to modular service architecture for community management.
-
-> **Engineering Philosophy:** Minimal blast radius, policy-compliant changes, and rigorous self-review before the first maintainer sees the code.
+* **[Hiero Python SDK](https://github.com/hashgraph/hiero-sdk-python):** Refactored core SDK examples to improve conceptual alignment; 5+ merged PRs.
+* **[Vercel SWR](https://github.com/vercel/swr):** Contributed to the maintainability of a React hooks library used by millions of developers.
+* **[Talawa-API](https://github.com/PalisadoesFoundation/talawa-api):** (Ex-GSoC Org) Modularized backend services for community management platforms.
 
 ---
 
-### 📌 Selected Engineering Projects
+### 🚀 Key Projects
 
-#### [GSV Freshers Compass](https://github.com/CODEAbhinav-art/gsv-freshers-compass)
-*Student-facing portal providing resources to 1000+ peers.*
-- **Impact:** 6,000+ organic views within the university ecosystem.
-- **Tech:** TypeScript, React, Optimized for Core Web Vitals.
+#### [GSV Freshers Compass](https://github.com/CODEAbhinav-art/gsv-freshers-compass) | **6,000+ Users**
+*High-performance student resource portal optimized for accessibility.*
+- **Outcome:** Successfully onboarded 1,000+ freshers; achieved 6,000+ organic views.
+- **Tech:** React, TypeScript, Performance Optimization, SEO.
 
-#### [SAFAR_NOV-25](https://github.com/CODEAbhinav-art/SAFAR_NOV-25)
-*Object-Oriented Design in Java.*
-- **Core Concept:** Implementation of architectural separation of concerns (Layered Architecture).
-- **Focus:** Clean abstractions and type-safe data handling.
+#### [SAFAR_NOV-25](https://github.com/CODEAbhinav-art/SAFAR_NOV-25) | **Java & System Architecture**
+*Backend-focused project demonstrating robust architectural patterns.*
+- **Core Focus:** Implemented **Separation of Concerns** and **Object-Oriented Design** principles in Java.
+- **Outcome:** Created a modular codebase designed for extensibility and strict type safety.
+- **Tech:** Java, OOP, Architectural Design.
 
-#### [Technocrats ML](https://github.com/CODEAbhinav-art/technocrats-ml)
-*End-to-end Machine Learning Pipeline.*
-- **Achievement:** 82% accuracy in species classification using structured EDA and feature engineering.
+#### [Technocrats ML Pipeline](https://github.com/CODEAbhinav-art/technocrats-ml) | **82% Accuracy**
+*Automated classification pipeline for biological data analysis.*
+- **Outcome:** Achieved 82% accuracy via structured feature engineering and automated EDA.
+- **Tech:** Python, scikit-learn, Pandas, NumPy.
 
 ---
 
-### 📈 GitHub Intelligence
-
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CODEAbhinav-art&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEAbhinav-art&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEAbhinav-art&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
 
-### 🎯 2026 Roadmap
-- [ ] Master **System Design** fundamentals (Load balancing, Caching, Sharding).
-- [ ] Transition from **Docker** to **Kubernetes** orchestration.
-- [ ] Target: **50+ Merged PRs** in production-grade open-source repositories.
+### 🔭 Current Focus & 2026 Goals
+- 🏗️ **System Design:** Mastering load balancing, caching strategies, and database sharding.
+- 📦 **Infrastructure:** Transitioning from local Docker environments to Kubernetes (K8s) orchestration.
+- 🤝 **Leadership:** Serving as **Internship Coordinator** at the Technocrats Programming Club.
 
 ---
-
-*“Correctness, clarity, and long-term maintainability over superficial complexity.”*
+*“I value correctness, clarity, and long-term maintainability over superficial complexity.”*
