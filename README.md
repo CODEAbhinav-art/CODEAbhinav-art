@@ -1,5 +1,5 @@
 # Abhinav Mishra
-**AI & Data Science Student ** *Specializing in Backend Systems, Open Source Software Development*
+**AI & Data Science Student || Specializing in Backend Systems, Open Source Software Development**
 
 [LinkedIn](https://linkedin.com/in/abhinavrmishra) | [Email](mailto:abhinav15102003@gmail.com) | [GitHub](https://github.com/CODEAbhinav-art)
 
