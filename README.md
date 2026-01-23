@@ -59,7 +59,6 @@ I am a Software Engineering student focused on **production-grade backend develo
 ### 🔭 Current Focus & 2026 Goals
 - 🏗️ **System Design:** Mastering load balancing, caching strategies, and database sharding.
 - 📦 **Infrastructure:** Transitioning from local Docker environments to Kubernetes (K8s) orchestration.
-- 🤝 **Leadership:** Serving as **Internship Coordinator** at the Technocrats Programming Club.
 
 ---
 *“I value correctness, clarity, and long-term maintainability over superficial complexity.”*
