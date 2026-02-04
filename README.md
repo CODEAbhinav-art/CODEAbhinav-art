@@ -41,11 +41,6 @@ I am a Software Engineering student focused on **production-grade backend develo
 - **Outcome:** Created a modular codebase designed for extensibility and strict type safety.
 - **Tech:** Java, OOP, Architectural Design.
 
-#### [Technocrats ML Pipeline](https://github.com/CODEAbhinav-art/technocrats-ml) | **82% Accuracy**
-*Automated classification pipeline for biological data analysis.*
-- **Outcome:** Achieved 82% accuracy via structured feature engineering and automated EDA.
-- **Tech:** Python, scikit-learn, Pandas, NumPy.
-
 ---
 
 ### 📊 GitHub Stats
