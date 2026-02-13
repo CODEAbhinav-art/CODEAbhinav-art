@@ -56,4 +56,4 @@ I am a Software Engineering student focused on **production-grade backend develo
 - 📦 **Infrastructure:** Transitioning from local Docker environments to Kubernetes (K8s) orchestration.
 
 ---
-*“I value correctness, clarity, and long-term maintainability over superficial complexity.”*
+*“Hello World!”*
