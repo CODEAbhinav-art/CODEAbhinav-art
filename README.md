@@ -51,9 +51,5 @@ Product Manager cum Software Engineering student.
 
 ---
 
-### 🔭 Current Focus & 2026 Goals (Talk isss cheap....)
-- 🏗️ **System Design:** Mastering load balancing, caching strategies, and database sharding.
-- 📦 **Infrastructure:** Transitioning from local Docker environments to Kubernetes (K8s) orchestration.
-
 ---
-*from the profile, it Seems like i'm doing great, isn't it...?*
+*Hello Earth...*
