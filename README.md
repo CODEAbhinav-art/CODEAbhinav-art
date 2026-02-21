@@ -6,7 +6,7 @@
 ---
 
 ### ⚡ Professional Summary (keeping it simple)
-Product Manager cum Software Engineering student.
+Software Engineering student with pretty good PM skills.
 
 ---
 
