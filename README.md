@@ -6,7 +6,7 @@
 ---
 
 ### ⚡ Professional Summary (keeping it simple)
-Software Engineering student with good Prod. Managing skiils.
+Software Engineering student with Prod. Managing skiils.
 
 ---
 
