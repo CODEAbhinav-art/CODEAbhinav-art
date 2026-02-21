@@ -5,12 +5,12 @@
 
 ---
 
-### ⚡ Professional Summary
-I am a Software Engineering student focused on **production-grade backend development**. I specialize in creating clean abstractions and contributing to high-stakes open-source ecosystems.
+### ⚡ Professional Summary (kept it simple)
+I am a Software Engineering student focused on **Talk is Cheap, show the code**.
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🛠️ Technical Toolkit (Flexing area)
 - **Languages:** C++, Java (Advanced OOP), Python, TypeScript/JavaScript
 - **Backend:** Node.js, Express.js, REST APIs, Modular Service Architecture
 - **Databases:** MongoDB (Schema Design, Aggregation), SQL Fundamentals
@@ -19,7 +19,7 @@ I am a Software Engineering student focused on **production-grade backend develo
 
 ---
 
-### 🏆 Open Source & Impact
+### 🏆 Open Source & Impact (Here my talk was cheap therefore showed the code)
 *I contribute to production codebases with a focus on maintainability and Developer Experience (DX).*
 
 * **[Hiero Python SDK](https://github.com/hashgraph/hiero-sdk-python):** Refactored core SDK examples to improve conceptual alignment; 5+ merged PRs.
@@ -28,7 +28,7 @@ I am a Software Engineering student focused on **production-grade backend develo
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Key Projects (flexing area part 2)
 
 #### [GSV Freshers Compass](https://github.com/CODEAbhinav-art/gsv-freshers-compass) | **6,000+ visits**
 *High-performance student resource portal optimized for accessibility.*
@@ -43,7 +43,7 @@ I am a Software Engineering student focused on **production-grade backend develo
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CODEAbhinav-art&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEAbhinav-art&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
@@ -51,9 +51,9 @@ I am a Software Engineering student focused on **production-grade backend develo
 
 ---
 
-### 🔭 Current Focus & 2026 Goals
+### 🔭 Current Focus & 2026 Goals (Talk isss cheap....)
 - 🏗️ **System Design:** Mastering load balancing, caching strategies, and database sharding.
 - 📦 **Infrastructure:** Transitioning from local Docker environments to Kubernetes (K8s) orchestration.
 
 ---
-*“Hello World!”*
+*from the profile, it Seems like i'm doing great, what about you visitor...*
