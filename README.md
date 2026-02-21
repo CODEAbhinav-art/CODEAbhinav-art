@@ -1,12 +1,12 @@
-# Abhinav Mishra
+# Abhinav Mishra 
 **AI & Data Science Student || Specializing in Backend Systems, Open Source Software Development**
 
 [LinkedIn](https://linkedin.com/in/abhinavrmishra) | [Email](mailto:abhinav15102003@gmail.com) | [GitHub](https://github.com/CODEAbhinav-art)
 
 ---
 
-### ⚡ Professional Summary (kept it simple)
-I am a Software Engineering student focused on **Talk is Cheap, show the code**.
+### ⚡ Professional Summary (keeping it simple)
+Product Manager cum Software Engineering student.
 
 ---
 
@@ -19,7 +19,7 @@ I am a Software Engineering student focused on **Talk is Cheap, show the code**.
 
 ---
 
-### 🏆 Open Source & Impact (Here my talk was cheap therefore showed the code)
+### 🏆 Open Source & Impact (Flexing area 2)
 *I contribute to production codebases with a focus on maintainability and Developer Experience (DX).*
 
 * **[Hiero Python SDK](https://github.com/hashgraph/hiero-sdk-python):** Refactored core SDK examples to improve conceptual alignment; 5+ merged PRs.
@@ -28,7 +28,7 @@ I am a Software Engineering student focused on **Talk is Cheap, show the code**.
 
 ---
 
-### 🚀 Key Projects (flexing area part 2)
+### 🚀 Key Projects (Flexing area 3)
 
 #### [GSV Freshers Compass](https://github.com/CODEAbhinav-art/gsv-freshers-compass) | **6,000+ visits**
 *High-performance student resource portal optimized for accessibility.*
@@ -56,4 +56,4 @@ I am a Software Engineering student focused on **Talk is Cheap, show the code**.
 - 📦 **Infrastructure:** Transitioning from local Docker environments to Kubernetes (K8s) orchestration.
 
 ---
-*from the profile, it Seems like i'm doing great, what about you visitor...*
+*from the profile, it Seems like i'm doing great, isn't it...?*
