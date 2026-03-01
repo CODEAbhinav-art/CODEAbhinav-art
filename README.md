@@ -10,7 +10,7 @@ Software Engineering student with Prod. Managing skiils.
 
 ---
 
-### 🛠️ Technical Toolkit (Flexing area)
+### 🛠️ Technical Toolkit 
 - **Languages:** C++, Java (Advanced OOP), Python, TypeScript/JavaScript
 - **Backend:** Node.js, Express.js, REST APIs, Modular Service Architecture
 - **Databases:** MongoDB (Schema Design, Aggregation), SQL Fundamentals
@@ -19,7 +19,7 @@ Software Engineering student with Prod. Managing skiils.
 
 ---
 
-### 🏆 Open Source & Impact (Flexing area 2)
+### 🏆 Open Source & Impact 
 *I contribute to production codebases with a focus on maintainability and Developer Experience (DX).*
 
 * **[Hiero Python SDK](https://github.com/hashgraph/hiero-sdk-python):** Refactored core SDK examples to improve conceptual alignment; 5+ merged PRs.
@@ -28,7 +28,7 @@ Software Engineering student with Prod. Managing skiils.
 
 ---
 
-### 🚀 Key Projects (Flexing area 3)
+### 🚀 Key Projects
 
 #### [GSV Freshers Compass](https://github.com/CODEAbhinav-art/gsv-freshers-compass) | **6,000+ visits**
 *High-performance student resource portal optimized for accessibility.*
