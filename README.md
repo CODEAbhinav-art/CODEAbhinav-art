@@ -13,9 +13,9 @@ Software Engineering student with Prod. Managing skiils.
 ### 🛠️ Technical Toolkit 
 - **Languages:** C++, Java (Advanced OOP), Python, TypeScript/JavaScript
 - **Backend:** Node.js, Express.js, REST APIs, Modular Service Architecture
-- **Databases:** MongoDB (Schema Design, Aggregation), SQL Fundamentals
+- **Databases:** MongoDB (Schema Design, Aggregation), SQL Fundamentals, postgreSQL
 - **AI/ML:** PyTorch, YOLOv8, scikit-learn, Exploratory Data Analysis
-- **DevOps:** Docker, CI/CD Workflows, GPG-Signing, DCO Compliance
+- **DevOps:** Docker, CI/CD Workflows
 
 ---
 
