@@ -10,7 +10,7 @@ Software Engineering student with Prod. Managing skiils.
 
 ---
 
-### 🛠️ Technical Toolkit (Working experience with AI assistance)
+### 🛠️ Technical Toolkit
 - **Languages:** C++, Java (Advanced OOP), Python, TypeScript/JavaScript
 - **Backend:** Node.js, Express.js, REST APIs, Modular Service Architecture
 - **Databases:** MongoDB (Schema Design, Aggregation), SQL Fundamentals, postgreSQL
