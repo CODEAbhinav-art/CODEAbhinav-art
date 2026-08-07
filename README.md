@@ -5,7 +5,7 @@
 
 ---
 
-### ⚡ Professional Summary (keeping it simple)
+### ⚡ Professional Summary
 Software Engineering student with Prod. Managing skiils.
 
 ---
